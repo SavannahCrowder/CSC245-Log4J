@@ -1,0 +1,26 @@
+2024-02-18 02:02:17,158 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 02:02:21,769 DEBUG e.a.c.HelloWorld [main] Attempting to access element at index: 0
+2024-02-18 02:02:21,770 INFO e.a.c.HelloWorld [main] Program completed successfully.
+2024-02-18 02:02:26,797 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 02:02:27,942 DEBUG e.a.c.HelloWorld [main] Attempting to access element at index: 99
+2024-02-18 02:02:27,942 INFO e.a.c.HelloWorld [main] Program completed successfully.
+2024-02-18 02:02:32,703 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 02:02:33,854 ERROR e.a.c.HelloWorld [main] Index out of bounds: 100
+2024-02-18 02:03:09,591 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 02:03:12,603 ERROR e.a.c.HelloWorld [main] Invalid input: bob
+2024-02-18 02:03:20,500 ERROR e.a.c.HelloWorld [main] Index out of bounds: -1
+2024-02-18 02:22:53,788 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 02:22:57,163 DEBUG e.a.c.HelloWorld [main] Attempting to access element at index: 4
+2024-02-18 02:22:57,164 INFO e.a.c.HelloWorld [main] Program completed successfully.
+2024-02-18 11:38:05,688 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 11:38:43,218 DEBUG e.a.c.HelloWorld [main] Attempting to access element at index: 0
+2024-02-18 11:38:43,218 INFO e.a.c.HelloWorld [main] Program completed successfully.
+2024-02-18 11:40:13,188 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 11:40:18,008 DEBUG e.a.c.HelloWorld [main] Attempting to access element at index: 99
+2024-02-18 11:40:18,008 INFO e.a.c.HelloWorld [main] Program completed successfully.
+2024-02-18 11:41:20,616 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 11:41:24,510 ERROR e.a.c.HelloWorld [main] Index out of bounds: 100
+2024-02-18 11:42:19,431 INFO e.a.c.HelloWorld [main] Program started.
+2024-02-18 11:42:23,447 ERROR e.a.c.HelloWorld [main] Invalid input: bob
+2024-02-18 11:42:36,372 ERROR e.a.c.HelloWorld [main] Invalid input: //
+2024-02-18 11:42:44,408 ERROR e.a.c.HelloWorld [main] Invalid input: -./%
